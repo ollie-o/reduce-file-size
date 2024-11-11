@@ -1,0 +1,5 @@
+photos/*
+!photos/.gitkeep
+
+photos_smaller/*
+!photos_smaller/.gitkeep
