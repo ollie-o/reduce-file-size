@@ -3,3 +3,5 @@ photos/*
 
 photos_smaller/*
 !photos_smaller/.gitkeep
+
+.DS_Store
